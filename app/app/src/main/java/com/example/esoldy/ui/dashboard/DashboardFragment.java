@@ -1,4 +1,4 @@
-package com.example.esoldy.ui.dashboard;
+package com.enfield.esoldy.ui.dashboard;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.esoldy.R;
+import com.enfield.esoldy.R;
 
 public class DashboardFragment extends Fragment {
 

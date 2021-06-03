@@ -1,18 +1,27 @@
 {
   "project_info": {
     "project_number": "208817602152",
+    "firebase_url": "https://esoldy1-default-rtdb.firebaseio.com",
     "project_id": "esoldy1",
     "storage_bucket": "esoldy1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:208817602152:android:b678f3751014572ab245dd",
+        "mobilesdk_app_id": "1:208817602152:android:5b2d36102d25af4cb245dd",
         "android_client_info": {
-          "package_name": "com.example.esoldy"
+          "package_name": "com.enfield.esoldy"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "208817602152-a5oe40hat7t66aviguj2lom5p09lmg05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enfield.esoldy",
+            "certificate_hash": "345bfb92f26b0768fd88c6cc9baa483d312e16b0"
+          }
+        },
         {
           "client_id": "208817602152-8vlaasob3cnbq3nn742oe9hkaoijg1e2.apps.googleusercontent.com",
           "client_type": 3

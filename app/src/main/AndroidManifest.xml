@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.esoldy">
+    package="com.enfield.esoldy">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -15,29 +15,29 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Esoldy.NoActionBar"
         tools:replace="android:theme">
-        <activity android:name=".userorderedproductsadmin"></activity>
-        <activity android:name=".Admin_new_Orders" />
-        <activity android:name=".confirmFinalOrderActivity" />
-        <activity android:name=".Cart_activity" />
-        <activity android:name=".uploadblogs" />
-        <activity android:name=".productDetailsActivity" />
-        <activity android:name=".testsettings" />
-        <activity android:name=".testregister" />
-        <activity android:name=".testloginactivity" />
+        <activity android:name="com.enfield.esoldy.userorderedproductsadmin"></activity>
+        <activity android:name="com.enfield.esoldy.Admin_new_Orders" />
+        <activity android:name="com.enfield.esoldy.confirmFinalOrderActivity" />
+        <activity android:name="com.enfield.esoldy.Cart_activity" />
+        <activity android:name="com.enfield.esoldy.uploadblogs" />
+        <activity android:name="com.enfield.esoldy.productDetailsActivity" />
+        <activity android:name="com.enfield.esoldy.testsettings" />
+        <activity android:name="com.enfield.esoldy.testregister" />
+        <activity android:name="com.enfield.esoldy.testloginactivity" />
         <activity android:name=".testlogin" />
         <activity
-            android:name=".factsandblogs"
+            android:name="com.enfield.esoldy.factsandblogs"
             android:label="@string/title_activity_factsandblogs"
             android:theme="@style/Theme.Esoldy.NoActionBar.NoActionBar" />
-        <activity android:name=".beforeaddcategoryproduct" />
-        <activity android:name=".Addcategoryadminproduct" />
-        <activity android:name=".Addnewproductactivity" />
-        <activity android:name=".adminpanelactivity" />
-        <activity android:name=".NavgiationhomeActivity" />
-        <activity android:name=".SplashActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".Splashactivity1" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.enfield.esoldy.beforeaddcategoryproduct" />
+        <activity android:name="com.enfield.esoldy.Addcategoryadminproduct" />
+        <activity android:name="com.enfield.esoldy.Addnewproductactivity" />
+        <activity android:name="com.enfield.esoldy.adminpanelactivity" />
+        <activity android:name="com.enfield.esoldy.NavgiationhomeActivity" />
+        <activity android:name="com.enfield.esoldy.SplashActivity" />
+        <activity android:name="com.enfield.esoldy.RegisterActivity" />
+        <activity android:name="com.enfield.esoldy.Splashactivity1" />
+        <activity android:name="com.enfield.esoldy.MainActivity">
             <meta-data
                 android:name="preloaded_fonts"
                 android:resource="@array/preloaded_fonts" />

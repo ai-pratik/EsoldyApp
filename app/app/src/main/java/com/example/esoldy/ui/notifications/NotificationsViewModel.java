@@ -1,4 +1,4 @@
-package com.example.esoldy.ui.notifications;
+package com.enfield.esoldy.ui.notifications;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

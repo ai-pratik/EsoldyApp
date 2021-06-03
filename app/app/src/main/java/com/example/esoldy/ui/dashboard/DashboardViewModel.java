@@ -1,4 +1,4 @@
-package com.example.esoldy.ui.dashboard;
+package com.enfield.esoldy.ui.dashboard;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

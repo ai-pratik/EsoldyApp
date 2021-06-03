@@ -1,4 +1,4 @@
-package com.example.esoldy;
+package com.enfield.esoldy;
 
 import android.os.Bundle;
 
