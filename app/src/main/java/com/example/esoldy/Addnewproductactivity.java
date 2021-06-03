@@ -123,7 +123,7 @@ public class Addnewproductactivity extends AppCompatActivity {
     }
 
     private void StoreProductInformation(){
-        loadingBar.setTitle("Adding Your Product For SEll");
+        loadingBar.setTitle("Adding Your Product For Sell");
         loadingBar.setMessage("Oh dear,Your Product is Adding Shortly");
         loadingBar.setCanceledOnTouchOutside(false);
         loadingBar.show();
@@ -144,7 +144,7 @@ public class Addnewproductactivity extends AppCompatActivity {
             @Override
             public void onFailure(@NonNull Exception e) {
                 String message=e.toString();
-                Toast.makeText(Addnewproductactivity.this, "Errot: "+ message, Toast.LENGTH_SHORT).show();
+                Toast.makeText(Addnewproductactivity.this, "Error: "+ message, Toast.LENGTH_SHORT).show();
                 loadingBar.dismiss();
             }
         }).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
@@ -199,7 +199,7 @@ public class Addnewproductactivity extends AppCompatActivity {
                     public void onComplete(@NonNull Task<Void> task) {
                         if(task.isSuccessful())
                         {
-                            Intent addnewproductintent=new Intent(Addnewproductactivity.this, MainActivity.class);
+                            Intent addnewproductintent=new Intent(Addnewproductactivity.this, Addcategoryadminproduct.class);
                             startActivity(addnewproductintent);
                             loadingBar.dismiss();
                             Toast.makeText(Addnewproductactivity.this, "Product is added Sucessfully", Toast.LENGTH_SHORT).show();
