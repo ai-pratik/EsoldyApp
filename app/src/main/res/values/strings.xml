@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Esoldy</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">navigation_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="product_image_caution">*Image Upload Click on above,Image size should less than 1 MB,
+    and also it is Stored in Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_finalhome">finalhome</string>
+    <string name="title_activity_homee">HomeeActivity</string>
+    <string name="title_activity_homie">HomieActivity</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navgiationhome">navgiationhomeActivity</string>
+    <string name="addproductinstruction"><B>Before You Sell\n\n</B>
+        <p><br> 1.Click on the Category image which you want to add.\n\n</br></p>
+        <p><br>2.After that you proceed to next Add Product information.\n\n</br></p>
+        <p><br>3.First click on Image icon Which is for adding Image of product\n\n</br></p>
+        <p><br>4.Then Type Valid Product Name,Product Description,Product Price\n\n</br></p>
+        <p><br>5.As This product information is verified by our Executive please input Valid and correct info\n\n</br></p>
+        <p><br>6.Start Selling!!!</br></p></string>
+
+    <string name="submitproductinstruction"><B>Before You Sell\n\n</B>
+        <p><br> 1.Click Appropriate image which you want to add of your product.\n\n</br></p>
+        <p><br>2.Product Name,Product information collect all this text info .\n\n</br></p>
+        <p><br>3.And Send It to our Esoldy Seller executive\n\n</br></p>
+        <p><br>4.Send on Whatsapp +918788034004 Or Mail us at aipratik5151@gmail.com \n\n</br></p>
+        <p><br>5.As This product information is verified by our Executive please input Valid and correct info\n\n</br></p>
+        <p><br>6.After Verification your product is listed on our app,For your information you recived the short message of product listing \n\n</br></p>
+        <p><br>7.When Someone Order your product for buy ,then our sells executive call to you\n\n</br></p>
+        <p><br>8.Start Selling!!!</br></p>
+
+    </string>
+    <string name="appinfo">
+        <B>
+            <br><p>The esoldy app is a fun, cool and easy way to buy and sell things around you. Is there something you do not need anymore? Or is there something that you have always wanted!!\n\n</p>
+            </br><br><p>Esoldy is a smooth, smart and user friendly platform where you can sell your used smartphones, laptop tablets, TV sets, etc using this app, you can sell you use device instantly Browse through all gadgets or simply search for your device get the accurate price on minimum effort and sell your used gadget right from your doorstep</p>
+            \n\n</br><br>
+            <p>
+                A complete recycling solution, is a creative application to contribute to the environment, with little steps taken every day for an amplified change globally. The application is based on Reduce, Reuse, and Recycle and focuses on reducing global warming by minimizing carbon emissions.
+            </p>
+        \n\n</br>
+            <br>
+                <p>
+                    Esoldy is a local app for Android that lets you buy, sell or find anything online. The app offer one stop destination for all your shopping needs and allow you to buy seen anything at your convenience.
+                </p>
+            \n\n</br>
+        </B>
+    </string>
+    <string name="title_activity_flag">flag</string>
+    <string name="title_activity_factsandblogs">ScrollingActivity</string>
+    <string name="large_facts1">
+        <b>Intersting Facts !!!</b>
+        \n| 80 to 85% of electronic products were discarded in landfills or incinerators, which can release certain toxics into the air.\n\n\n |. E-waste represents 2% of America’s trash in landfills, but it equals 70% of overall toxic waste.\n\n\n
+| The extreme amount of lead in electronics alone causes damage in the central and peripheral nervous systems, the blood and the kidneys.\n\n\n
+| 20 to 50 million metric tons of e-waste are disposed worldwide every year.\n\n\n
+|Cell phones and other electronic items contain high amounts of precious metals like gold or silver.\n\n\n
+| Americans dump phones containing over $60 million in gold/silver every year.
+ Only 12.5% of e-waste is currently recycled.\n\n\n
+|For every 1 million cell phones that are recycled, 35,274 lbs. of copper, 772 lbs. of silver, 75 lbs. of gold, and 33 lbs. of palladium can be recovered.\n\n\n
+| Recycling 1 million laptops saves the energy equivalent to the electricity used by 3,657 U.S. homes in a year. 8. E-waste is still the fastest growing municipal waste stream in America, according to the EPA.\n\n\n
+| A large number of what is labeled as “e-waste” is actually not waste at all, but rather whole electronic equipment or parts that are readily marketable for reuse or can be recycled for materials recovery.\n\n\n
+| It takes 539 lbs. of fossil fuel, 48 lbs. of chemicals, and 1.5 tons of water to manufacture one computer and monitor.\n\n\n
+| Electronic items that are considered to be hazardous include, but are not limited to:Televisions and computer monitors that contain cathode ray tubes, LCD desktop monitors, LCD televisions, Plasma televisions, Portable DVD players with LCD screens.\n\n\n
+        /n/n/n/n/n
+
+    </string>
+</resources>

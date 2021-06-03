@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_FactsAndBlogs"
+            android:icon="@drawable/books"
+            android:title="Facts,Blogs about Ewaste"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings_2"
+            android:title="Account Settings"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_seller"
+            android:icon="@drawable/seller"
+            android:title="Sell your Product"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/logout"
+            android:title="Sign out"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/help"
+            android:title="Help"
+            android:iconTint="@android:color/white"/>
+
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/cart"
+            android:title="Cart"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/box_2"
+            android:title="Orders"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/list"
+            android:title="Categories"
+            android:iconTint="@android:color/white"/>
+
+        <item
+            android:id="@+id/nav_AddEwasteCheckout"
+            android:icon="@drawable/ewaste_2"
+            android:title="Sell Big Junk Of ewaste"
+            android:iconTint="@android:color/holo_red_light"/>
+
+
+
+
+        <item
+            android:id="@+id/Moresoon"
+            android:icon="@drawable/headphoness"
+            android:title="More Fetures Soon.."
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/bug_report"
+            android:icon="@drawable/mobiles"
+            android:title="Report Bug.."
+            android:iconTint="@android:color/white"/>
+
+    </group>
+</menu>

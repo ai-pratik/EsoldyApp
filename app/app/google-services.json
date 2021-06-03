@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208817602152",
+    "project_id": "esoldy1",
+    "storage_bucket": "esoldy1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208817602152:android:b678f3751014572ab245dd",
+        "android_client_info": {
+          "package_name": "com.example.esoldy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208817602152-8vlaasob3cnbq3nn742oe9hkaoijg1e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2H2XlTn1OnzPqOstsyuxzcb5He50m_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208817602152-8vlaasob3cnbq3nn742oe9hkaoijg1e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
